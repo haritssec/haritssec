@@ -1,189 +1,165 @@
-# 🛡️ Blue Team Security Analyst
+<div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                    DEFENSIVE SECURITY OPERATIONS                 ║
-║                         STATUS: ACTIVE                           ║
-╚══════════════════════════════════════════════════════════════════╝
+███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
+██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
+███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝ 
+╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝  
+███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║   
+╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
+                                                                
+ ██████╗ ██████╗ ███████╗██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗███████╗
+██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
+██║   ██║██████╔╝█████╗  ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║███████╗
+██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║╚════██║
+╚██████╔╝██║     ███████╗██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║███████║
+ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Threat+Hunter+%7C+SOC+Analyst;Defense+%3E+Offense;Protecting+Digital+Assets)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+BLUE+TEAM+SECURITY+ANALYST;THREAT+HUNTER+%7C+SOC+OPERATOR+%7C+DFIR" alt="Typing SVG" />
+
+![Matrix](https://github.com/rodrigograca31/rodrigograca31/blob/master/matrix.svg)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
 
 ---
 
-## 🎯 Mission Statement
+<div align="center">
 
-> *"In cyber defense, vigilance is not paranoia—it's preparation."*
-
-Specialized in **threat detection**, **incident response**, and **security monitoring**. Committed to building resilient defense systems and hunting advanced persistent threats before they strike.
-
----
-
-## 🔍 Core Competencies
-
-```yaml
-Defense_Strategy:
-  - Threat Intelligence Analysis
-  - Security Information & Event Management (SIEM)
-  - Incident Response & Forensics
-  - Vulnerability Assessment & Management
-  - Network Traffic Analysis
-  
-Technologies:
-  SIEM_Platforms: [Splunk, ELK Stack, QRadar, Microsoft Sentinel]
-  IDS_IPS: [Snort, Suricata, Zeek]
-  EDR_Solutions: [CrowdStrike, Carbon Black, Microsoft Defender]
-  Forensics: [Autopsy, Volatility, Wireshark, FTK]
-  Threat_Intel: [MISP, YARA, OpenCTI, TheHive]
-  
-Programming:
-  - Python (Automation & Analysis)
-  - PowerShell (Windows Forensics)
-  - Bash (Linux Hardening)
-  - KQL (Kusto Query Language)
+```ascii
+╔════════════════════════════════════════════════════════════════════════╗
+║  [●] SYSTEM STATUS: ACTIVE  │  [●] THREATS MONITORED: 24/7            ║
+║  [●] DEFENSE LEVEL: MAXIMUM │  [●] INCIDENTS BLOCKED: 15,847          ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## 📊 Security Operations Dashboard
+## 『 ⚡ CORE SYSTEMS 』
+
+```python
+class BlueTeamDefender:
+    def __init__(self):
+        self.skills = ["Threat Hunting", "SIEM", "Forensics", "IR"]
+        self.status = "ACTIVE"
+    
+    def protect(self):
+        while self.status == "ACTIVE":
+            return "🛡️ DEFENDING..."
+```
 
 <div align="center">
 
-| Metric | Status |
-|--------|--------|
-| 🎯 Threats Detected | ![Threats](https://img.shields.io/badge/Monthly-1.2K+-00ff00?style=flat-square) |
-| ⚡ Response Time | ![Response](https://img.shields.io/badge/MTTR-15min-00ff00?style=flat-square) |
-| 🛡️ Systems Monitored | ![Systems](https://img.shields.io/badge/Active-500+-00ffff?style=flat-square) |
-| 📈 Detection Rate | ![Detection](https://img.shields.io/badge/Accuracy-98.7%25-00ff00?style=flat-square) |
+### 『 🎯 TECH ARSENAL 』
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=FFD43B)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
-## 🔧 Arsenal & Tools
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Elastic](https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Microsoft](https://img.shields.io/badge/-Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 『 📊 LIVE DASHBOARD 』
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00ff00&text_color=FFFFFF&rank_icon=github" />
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00ff00&currStreakLabel=00F7F7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F7F7&line=00ff00&point=00F7F7&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 📚 Active Projects
-
-### 🔐 Threat Hunting Framework
-*Automated threat hunting system using Python and YARA rules*
-- Real-time IOC detection
-- Automated incident timeline generation
-- Integration with MISP threat intelligence
-
-### 🚨 SIEM Correlation Rules
-*Custom detection rules for common attack patterns*
-- MITRE ATT&CK framework mapping
-- Low false-positive rate optimization
-- Multi-source log correlation
-
-### 🔬 Forensics Toolkit
-*Custom tools for digital forensics and incident response*
-- Memory analysis automation
-- Log parsing utilities
-- Evidence collection scripts
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
-
-</div>
-
----
-
-## 🏆 Certifications & Training
-
-```
-[✓] CISSP - Certified Information Systems Security Professional
-[✓] GCIH - GIAC Certified Incident Handler
-[✓] GCFA - GIAC Certified Forensic Analyst
-[✓] CEH - Certified Ethical Hacker
-[✓] CompTIA Security+
-[✓] Blue Team Level 1 (BTL1)
-[~] OSCP - In Progress
-```
-
----
-
-## 🌐 Threat Intelligence Feed
-
-<div align="center">
+## 『 🔥 THREAT INTEL FEED 』
 
 ```diff
-+ Recent Detections & Mitigations
-! CVE-2024-XXXX: Critical RCE - Patched across infrastructure
-! Phishing Campaign: New variant detected - Rules updated
-! Ransomware IOCs: 15 new indicators added to blocklist
-+ Zero-day Response: Emergency patch deployed - 0 infections
+@@  REAL-TIME SECURITY OPERATIONS  @@
+
++ [✓] Malware Signatures Updated: 2,847 new IOCs
++ [✓] Phishing Attempts Blocked: 156 in last 24h
+! [!] Critical CVE Detected: Patch deployed across fleet
+! [!] APT Activity: Advanced monitoring engaged
+- [✗] Ransomware Attempt: Terminated before encryption
+# [#] Zero-Day Research: Analysis in progress
 ```
 
 </div>
 
 ---
 
-## 📡 Connect & Collaborate
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 『 🏆 CERTIFICATIONS 』
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/-CISSP-00C853?style=for-the-badge&logo=isc2&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-GCIH-007ACC?style=for-the-badge&logo=sans&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-CEH-E81123?style=for-the-badge&logo=eccouncil&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 Defense Operations Status
+<div align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge&logo=statuspage)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00ff00?style=for-the-badge)
-![Last Updated](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_USERNAME?style=for-the-badge&label=Last%20Active&color=00ffff)
+## 『 💻 OPERATION PROJECTS 』
 
-**Defense Workflow:**
-```
-Monitor → Analyze → Respond → Learn → Repeat ♾️
-```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=threat-hunting-toolkit&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00ff00)](https://github.com/YOUR_USERNAME/threat-hunting-toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=siem-correlation-rules&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00ff00)](https://github.com/YOUR_USERNAME/siem-correlation-rules)
+
+</div>
 
 ---
 
 <div align="center">
-
-### 🛡️ *"Defense is not just about stopping attacks—it's about understanding them."*
 
 ```ascii
-┌─────────────────────────────────────────────┐
-│  Always Learning  |  Always Defending       │
-│  Blue Team Mindset | Security First         │
-└─────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   ██╗  ██╗██╗   ██╗███╗   ██╗████████╗    ███████╗███╗   ██╗ ║
+║   ██║  ██║██║   ██║████╗  ██║╚══██╔══╝    ██╔════╝████╗  ██║ ║
+║   ███████║██║   ██║██╔██╗ ██║   ██║       █████╗  ██╔██╗ ██║ ║
+║   ██╔══██║██║   ██║██║╚██╗██║   ██║       ██╔══╝  ██║╚██╗██║ ║
+║   ██║  ██║╚██████╔╝██║ ╚████║   ██║       ███████╗██║ ╚████║ ║
+║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝       ╚══════╝╚═╝  ╚═══╝ ║
+║                                                                ║
+║        🎯 DETECT  ⚡ ANALYZE  🛡️ DEFEND  📊 REPORT            ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+### 『 🌐 CONNECT 』
 
-**[⬆ Back to Top](#-blue-team-security-analyst)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=DEFENSE%20NEVER%20SLEEPS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7F7&style=for-the-badge&label=SECURITY+SCANS)
 
 </div>
