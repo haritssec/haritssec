@@ -1,0 +1,49 @@
+name: Update README Profile
+
+
+on:
+push:
+branches: [ main ]
+schedule:
+- cron: '0 0 * * *' # daily at 00:00 UTC (change if needed)
+workflow_dispatch: {}
+
+
+jobs:
+update-readme:
+runs-on: ubuntu-latest
+
+
+steps:
+- name: Checkout repository
+uses: actions/checkout@v4
+with:
+fetch-depth: 0
+
+
+- name: Setup Python
+uses: actions/setup-python@v4
+with:
+python-version: '3.11'
+
+
+- name: Install dependencies
+run: |
+python -m pip install --upgrade pip
+
+
+- name: Run generator
+run: |
+python scripts/generate_profile.py --readme README.md
+
+
+- name: Commit files
+uses: EndBug/add-and-commit@v9
+with:
+author_name: github-actions
+author_email: github-actions@github.com
+message: 'chore: update auto-generated profile in README'
+add: 'README.md'
+signoff: false
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
