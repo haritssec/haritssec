@@ -219,35 +219,6 @@ Scripts: 30+ | Use Cases: Automation, Recon, Analysis
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" align="left">
 
-```diff
-+ ✅ Completed 25+ TryHackMe rooms
-+ ✅ Solved 50+ CTF challenges  
-+ ✅ Built 10+ security tools from scratch
-+ ✅ Mastered Linux command line
-+ ✅ Python programming fundamentals
-+ ✅ Network fundamentals & protocols
-+ ✅ Basic penetration testing methodology
-+ ✅ Web security basics (OWASP Top 10)
-```
-
-<br clear="left"/>
-
-### 🎓 Learning Resources I Use
-
-<div align="center">
-
-| 📚 Platform | 🎯 Focus Area | ⭐ Progress |
-|:---:|:---:|:---:|
-| **TryHackMe** | Hands-on labs & rooms | 25+ Rooms |
-| **HackTheBox** | Real-world machines | 10+ Boxes |
-| **PortSwigger Academy** | Web security | 40% Complete |
-| **Cybrary** | Security fundamentals | 5 Courses |
-| **YouTube** | Tool tutorials & techniques | Daily |
-| **Medium/Blogs** | Writeups & methodologies | Weekly |
-
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> CYBERSECURITY ROADMAP
 
@@ -269,61 +240,10 @@ graph LR
     style K fill:#ff00ff
 ```
 
-### 📅 My Learning Timeline
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│  2024                                                       │
-├─────────────────────────────────────────────────────────────┤
-│  Q1 [██████████] Started learning Kali Linux                │
-│  Q2 [██████████] Completed Python for Security course       │
-│  Q3 [██████████] Started TryHackMe & HTB                    │
-│  Q4 [████████░░] Building security projects (Current)       │
-│                                                              │
-│  2025 Goals                                                 │
-├─────────────────────────────────────────────────────────────┤
-│  Q1 [░░░░░░░░░░] Get first security certification           │
-│  Q2 [░░░░░░░░░░] Complete 50+ TryHackMe rooms               │
-│  Q3 [░░░░░░░░░░] Participate in Bug Bounty programs         │
-│  Q4 [░░░░░░░░░░] Land first security job/internship         │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5c-8b28-443ca1eb6a94.png" width="30" /> SKILLS BREAKDOWN
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
 
-### 🔐 Security Skills
-
-```yaml
-Reconnaissance:
-  - Nmap scanning: ████████░░ 80%
-  - OSINT gathering: ███████░░░ 70%
-  - Subdomain enumeration: ██████░░░░ 60%
-  - Google dorking: █████████░ 90%
-
-Exploitation:
-  - Metasploit framework: ██████░░░░ 60%
-  - Manual exploitation: █████░░░░░ 50%
-  - SQL injection: ███████░░░ 70%
-  - XSS attacks: ███████░░░ 70%
-
-Post-Exploitation:
-  - Privilege escalation: ██████░░░░ 60%
-  - Maintaining access: ████░░░░░░ 40%
-  - Data exfiltration: █████░░░░░ 50%
-  - Covering tracks: ████░░░░░░ 40%
-
-Defense:
-  - Log analysis: ███████░░░ 70%
-  - Incident response: █████░░░░░ 50%
-  - Security hardening: ██████░░░░ 60%
-  - Threat detection: █████░░░░░ 50%
-```
-
-<br clear="right"/>
 
 ### 💻 Technical Skills
 
@@ -363,59 +283,13 @@ Defense:
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" align="left">
 
-### 🏆 Notable Accomplishments
 
-```bash
-✨ Completed 25+ TryHackMe Rooms
-   └─ Categories: Web, Network, Linux
 
-✨ Solved 50+ CTF Challenges  
-   └─ Focus: OSINT, Web, Crypto
-
-✨ Built 10+ Security Tools
-   └─ Python-based automation tools
-
-✨ Top 10% on TryHackMe
-   └─ Consistent learner badge
-
-✨ Active GitHub Contributor
-   └─ 100+ commits in security projects
-
-✨ Security Blog Writer
-   └─ 15+ technical writeups published
-```
-
-<br clear="left"/>
-
-### 📝 Recent Activities
-
-```diff
-@@ Recent Commits & Updates @@
-
-! [2024-12-04] 🔥 Completed "Blue" room on TryHackMe
-+ [2024-12-03] 📝 Published writeup: "SQL Injection Deep Dive"  
-+ [2024-12-02] 🛠️ Built automated subdomain enumeration tool
-! [2024-12-01] 🎯 Pwned "Lame" box on HackTheBox
-+ [2024-11-30] 📚 Started learning Buffer Overflow techniques
-+ [2024-11-29] 🔧 Updated port scanner with multi-threading
-! [2024-11-28] 🏆 Ranked Top 15% in TryHackMe
-```
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294015-47cd93d5-ca9e-4a62-8b2f-63c56a18e1e1.gif" width="30" /> BLOG & WRITEUPS
 
 <div align="center">
 
-### 📄 Latest Writeups
-
-| 📅 Date | 📝 Title | 🏷️ Category | 🔗 Link |
-|:---:|:---:|:---:|:---:|
-| Dec 2024 | SQL Injection: From Basic to Advanced | Web Security | [Read](https://medium.com/@yourhandle) |
-| Nov 2024 | Linux Privilege Escalation Techniques | System Security | [Read](https://medium.com/@yourhandle) |
-| Nov 2024 | My First HackTheBox Machine: Lame | Penetration Testing | [Read](https://medium.com/@yourhandle) |
-| Oct 2024 | Network Traffic Analysis with Wireshark | Network Security | [Read](https://medium.com/@yourhandle) |
-| Oct 2024 | Building a Port Scanner in Python | Tool Development | [Read](https://medium.com/@yourhandle) |
 
 </div>
 
