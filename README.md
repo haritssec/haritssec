@@ -22,6 +22,15 @@
 ## 🎯 THREAT PROFILE
 
 ```python
+>>> from soc import CyberSecurityExpert
+>>> me = CyberSecurityExpert()
+
+>>> me.name
+"HaritsSec"
+
+>>> me.current_mission()
+"Hunting vulnerabilities and protecting digital assets"
+
 class CyberSecurityExpert:
     def __init__(self):
         self.name = "Your Name"
