@@ -145,6 +145,7 @@
 ```
 
 <br clear="right"/>
+---
 
 ### 🎯 Completed Milestones
 
