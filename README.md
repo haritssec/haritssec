@@ -112,73 +112,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43d3-b585-e9f89f469c1e.gif" width="400" align="right">
 
-### 🎯 Security Tools
-
-**🔹 [Network Port Scanner](https://github.com/yourusername/port-scanner)**
-```python
-# Multi-threaded port scanner with banner grabbing
-Status: ✅ Completed | Stars: ⭐ 10
-Tech: Python, Socket Programming, Threading
-```
-
-**🔹 [Password Strength Checker](https://github.com/yourusername/password-checker)**
-```python
-# Analyze password entropy and complexity
-Status: ✅ Completed | Stars: ⭐ 8
-Tech: Python, Regex, Security Analysis
-```
-
-**🔹 [Web Vulnerability Scanner](https://github.com/yourusername/web-scanner)**
-```python
-# Automated scanner for common web vulnerabilities
-Status: 🔄 In Progress | Stars: ⭐ 5
-Tech: Python, Requests, BeautifulSoup
-```
-
-### 🛡️ Practice & Labs
-
-**🔹 [TryHackMe Solutions](https://github.com/yourusername/thm-writeups)**
-```bash
-# My walkthrough and solutions for TryHackMe rooms
-Rooms Completed: 25+ | Rank: Top 10%
-Focus: Web, Network, Linux Privilege Escalation
-```
-
-**🔹 [HackTheBox Writeups](https://github.com/yourusername/htb-writeups)**
-```bash
-# Detailed writeups for HTB machines
-Machines Pwned: 10+ | Active User
-Focus: OSINT, Enumeration, Exploitation
-```
-
-**🔹 [CTF Challenges](https://github.com/yourusername/ctf-challenges)**
-```bash
-# Collection of CTF challenges and solutions
-Events: 15+ CTFs | Category: Web, Crypto, Forensics
-Notable: Top 50 in National CTF 2024
-```
-
-### 📚 Learning Resources
-
-**🔹 [Security Notes](https://github.com/yourusername/security-notes)**
-```markdown
-# My personal cyber security knowledge base
-Topics: 50+ | Notes: 200+ pages
-Categories: Web Security, Network, Linux, Tools
-```
-
-**🔹 [Bash Security Scripts](https://github.com/yourusername/bash-scripts)**
-```bash
-# Collection of useful security automation scripts
-Scripts: 30+ | Use Cases: Automation, Recon, Analysis
-```
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> LEARNING JOURNEY
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" align="right">
@@ -219,28 +152,7 @@ Scripts: 30+ | Use Cases: Automation, Recon, Analysis
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" align="left">
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> CYBERSECURITY ROADMAP
-
-```mermaid
-graph LR
-    A[🎯 Start] --> B[Linux Basics]
-    B --> C[Networking Fundamentals]
-    C --> D[Python Programming]
-    D --> E[Web Security]
-    E --> F[Network Security]
-    F --> G[System Security]
-    G --> H[🎓 Junior Security Analyst]
-    H --> I[SOC Analyst]
-    I --> J[Penetration Tester]
-    J --> K[🏆 Security Expert]
-    
-    style A fill:#00ff00
-    style H fill:#00ffff
-    style K fill:#ff00ff
-```
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5c-8b28-443ca1eb6a94.png" width="30" /> SKILLS BREAKDOWN
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5c-8b28-443ca1eb6a94.png" width="30" /> CONTACT ME
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
 
