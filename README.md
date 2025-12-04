@@ -244,59 +244,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
 
-
-### 💻 Technical Skills
-
-<div align="center">
-
-**Programming & Scripting**
-
-![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-80%25-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-50%25-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-**Operating Systems**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-90%25-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-85%25-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-70%25-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Security Tools Mastery**
-
-| Tool | Proficiency | Use Cases |
-|:---:|:---:|:---:|
-| 🔍 **Nmap** | ████████░░ 80% | Port scanning, service detection |
-| 🦈 **Wireshark** | ███████░░░ 70% | Packet analysis, network forensics |
-| 💉 **Metasploit** | ██████░░░░ 60% | Exploitation framework |
-| 🔥 **Burp Suite** | ███████░░░ 70% | Web application testing |
-| 🐍 **SQLmap** | ███████░░░ 70% | SQL injection automation |
-| 🔨 **John the Ripper** | ██████░░░░ 60% | Password cracking |
-| 👻 **Hashcat** | █████░░░░░ 50% | Advanced hash cracking |
-| 🕷️ **Nikto** | ██████░░░░ 60% | Web server scanning |
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276e5c12-2d4e-4d8d-b0e8-9f4f3d3f3f3e.png" width="30" /> ACHIEVEMENTS & HIGHLIGHTS
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" align="left">
-
-
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294015-47cd93d5-ca9e-4a62-8b2f-63c56a18e1e1.gif" width="30" /> BLOG & WRITEUPS
-
-<div align="center">
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
