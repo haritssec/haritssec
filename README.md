@@ -15,7 +15,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> WHO AM I
 
 ```bash
-┌──(kali㉿kali)-[~]
+┌──(harits㉿kali)-[~]
 └─$ neofetch
 ```
 
@@ -107,8 +107,6 @@
 </div>
 
 ---
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> LEARNING PROJECTS
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43d3-b585-e9f89f469c1e.gif" width="400" align="right">
 
