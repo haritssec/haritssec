@@ -84,7 +84,7 @@
 </div>
 
 ---
-
+<!--
 ## 🚀 Learning Projects
 
 ### 🔹 [Port Scanner](https://github.com/yourusername/port-scanner)
@@ -106,15 +106,15 @@ My learning notes about cyber security
 ```
 
 ---
-
+-->
 ## 📬 Connect With Me
 
 <div align="center">
 
 ```bash
 ┌─[CONTACT]
-├─> Email    : your.email@example.com
-├─> LinkedIn : linkedin.com/in/yourprofile
+├─> Email    : haritsinfosec.com
+├─> LinkedIn : linkedin.com
 └─> Status   : 🟢 Learning & Growing
 ```
 
@@ -133,7 +133,7 @@ My learning notes about cyber security
 ```
 [STATUS]
 ├─> Mode      : Learning & Practicing
-├─> Progress  : ████████░░░░░░░░░░░░ 40%
+├─> Progress  : █░░░░░░░░░░ 10%
 └─> Goal      : Become Security Professional
 ```
 
