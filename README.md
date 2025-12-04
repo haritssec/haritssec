@@ -1,190 +1,266 @@
+# 🛡️ CYBER SECURITY SPECIALIST | BLUE TEAM OPERATOR
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██████╗██╗   ██╗██████╗ ███████╗██████╗                   ║
+║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗                  ║
+║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝                  ║
+║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗                  ║
+║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║                  ║
+║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝                  ║
+║                                                               ║
+║           [DEFENSIVE SECURITY | THREAT HUNTING]               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0080FF&height=200&section=header&text=Blue%20Team%20Journey&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Analyst&descAlignY=55&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=500&lines=Cyber+Defense+Enthusiast;Learning+Security+Operations;Building+Blue+Team+Skills" alt="Typing SVG" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7F7&style=flat-square&label=Visitors)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00F7F7)](https://github.com/YOUR_USERNAME)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Expert-00FF00?style=for-the-badge)
+![Blue Team](https://img.shields.io/badge/Blue_Team-Defender-0080FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active_Defender-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 SYSTEM INFORMATION
 
-**Passionate about cybersecurity and defense strategies.** Currently learning the fundamentals of threat detection, incident response, and security monitoring. Building hands-on experience through labs and real-world practice.
+```bash
+┌──(defender㉿blueteam)-[~/profile]
+└─$ whoami
+> Cyber Security Specialist | Blue Team Operator
+> Threat Hunter | SOC Analyst | Incident Responder
 
-```yaml
-Role: Aspiring Blue Team Analyst
-Focus: Cybersecurity Defense & Threat Detection  
-Learning: SIEM, Log Analysis, Network Security
-Goal: Security Analys
+┌──(defender㉿blueteam)-[~/profile]
+└─$ cat mission.txt
+> Protecting digital assets and infrastructure
+> Hunting threats before they strike
+> Building resilient security systems
 ```
 
 ---
 
-## 🚀 Current Learning Path
+## ⚔️ ARSENAL & TOOLKIT
 
-<div align="center">
+### 🔵 Defensive Operations
+```bash
+[+] SIEM & Log Analysis
+    ├── Splunk | ELK Stack | Graylog
+    ├── Log correlation & analysis
+    └── Real-time threat detection
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/network.png" width="60" alt="Network"/>
-<br><br>
-<strong>Network Security</strong>
-<br><br>
-<sub>TCP/IP • DNS • HTTP/HTTPS<br>Wireshark • Packet Analysis</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/console.png" width="60" alt="System"/>
-<br><br>
-<strong>System Administration</strong>
-<br><br>
-<sub>Linux • Windows Server<br>PowerShell • Bash Scripting</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="60" alt="Security"/>
-<br><br>
-<strong>Security Operations</strong>
-<br><br>
-<sub>SIEM Tools • Log Analysis<br>Incident Response</sub>
-</td>
-</tr>
-</table>
+[+] Network Security
+    ├── Wireshark | tcpdump | Zeek
+    ├── IDS/IPS (Snort, Suricata)
+    └── Firewall management & monitoring
 
-</div>
+[+] Threat Intelligence
+    ├── MISP | OpenCTI | ThreatConnect
+    ├── OSINT gathering
+    └── IOC analysis & tracking
 
----
+[+] Incident Response
+    ├── Forensics: Autopsy, Volatility
+    ├── Malware Analysis (sandboxing)
+    └── DFIR toolkit mastery
+```
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### Learning Platforms
-
-</div>
+### 💻 Technical Skills
+```python
+skills = {
+    "OS": ["Kali Linux", "Ubuntu", "Windows Server", "CentOS"],
+    "Security": ["SOC Operations", "Threat Hunting", "Vulnerability Management"],
+    "Tools": ["Nmap", "Metasploit", "Burp Suite", "OSSEC", "Wazuh"],
+    "Languages": ["Python", "Bash", "PowerShell", "JavaScript"],
+    "Frameworks": ["MITRE ATT&CK", "NIST CSF", "ISO 27001"],
+    "Cloud": ["AWS Security", "Azure Sentinel", "GCP Security"]
+}
+```
 
 ---
 
-## 📊 GitHub Statistics
+## 🚨 FEATURED PROJECTS
 
-<div align="center">
+### 🛡️ [SOC Automation Suite](https://github.com/yourusername/soc-automation)
+```bash
+├── Automated threat detection & response
+├── SOAR integration (TheHive + Cortex)
+├── Custom playbooks for incident handling
+└── 🔹 Python | Splunk | TheHive
+```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+### 🔍 [Threat Hunting Platform](https://github.com/yourusername/threat-hunting)
+```bash
+├── Real-time threat intelligence aggregation
+├── Behavioral analysis engine
+├── Custom detection rules (Sigma)
+└── 🔹 ELK Stack | Python | Yara
+```
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak"/>
+### 🌐 [Network Intrusion Detection System](https://github.com/yourusername/nids-project)
+```bash
+├── Custom Snort/Suricata rules
+├── Machine learning anomaly detection
+├── Dashboard for real-time alerts
+└── 🔹 Suricata | Python | Grafana
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🎓 Learning & Certifications
-
----
-
-## 💼 Learning Projects
-
-<div align="center">
-
-</table>
-
-</div>
-
----
-
-## 📚 Learning Resources
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=700&lines=Reading+SANS+Reading+Room+and+security+blogs;Building+labs+and+breaking+things+to+learn;Documenting+everything+I+learn" alt="Learning Activities"/>
-
-<br><br>
-
-**Favorite Blogs & Resources**
-- 🔗 SANS Internet Storm Center
-- 🔗 Krebs on Security
-- 🔗 The Hacker News
-- 🔗 Cybersecurity & Infrastructure Security Agency (CISA)
-
-</div>
+### 🔐 [Vulnerability Scanner & Manager](https://github.com/yourusername/vuln-scanner)
+```bash
+├── Automated scanning pipeline
+├── CVE tracking & prioritization
+├── Patch management automation
+└── 🔹 OpenVAS | Python | Docker
+```
 
 ---
 
-## 📈 Skills Progress
+## 📊 SECURITY METRICS
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-**Technical Skills**
-
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-●●●○○-00F7F7?style=flat-square)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-●●○○○-00F7F7?style=flat-square)
-![Python Scripting](https://img.shields.io/badge/Python_Scripting-●●●○○-00F7F7?style=flat-square)
-
-</td>
-<td width="50%">
-
-**Soft Skills**
-
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-●●●●●-00FF00?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</div>
+```bash
+┌──────────────────────────────────────────────────────────┐
+│  THREAT LANDSCAPE MONITORING                             │
+├──────────────────────────────────────────────────────────┤
+│  Threats Detected:    [████████████████░░] 1,247+       │
+│  Incidents Resolved:  [████████████████░░] 856+         │
+│  Zero-Day Research:   [██████████░░░░░░░░] Active       │
+│  SOC Response Time:   [████████████████░░] <5 mins      │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🎓 CERTIFICATIONS & TRAINING
+
+```bash
+[✓] CEH - Certified Ethical Hacker
+[✓] CompTIA Security+
+[✓] Blue Team Level 1 (BTL1)
+[✓] GCIH - GIAC Certified Incident Handler
+[~] OSCP - In Progress
+[~] GCFA - Planned
+```
+
+---
+
+## 📡 LATEST ACTIVITY
+
+```bash
+┌──(defender㉿blueteam)-[~/activity]
+└─$ tail -f latest_actions.log
+
+[2024-12-04 10:30] >> Deployed new SIEM correlation rules
+[2024-12-03 15:45] >> Completed threat hunting exercise
+[2024-12-02 09:20] >> Updated IDS signatures database
+[2024-12-01 14:10] >> Published security research paper
+[2024-11-30 11:55] >> Conducted SOC team training session
+```
+
+---
+
+## 🔗 CONNECT & COLLABORATE
+
+```bash
+┌──(defender㉿blueteam)-[~/contact]
+└─$ cat social_links.txt
+```
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white)](https://haritsinfosec@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-
-<br>
-
-**📧 Email:** haritsinfosec@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
+## 💀 PHILOSOPHY
+
+```python
+#!/usr/bin/env python3
+
+class CyberDefender:
+    def __init__(self):
+        self.motto = "Defense is not just a reaction, it's a mindset"
+        self.mission = "Protect, Detect, Respond"
+        self.approach = "Proactive threat hunting"
+    
+    def defend(self):
+        while True:
+            monitor_networks()
+            hunt_threats()
+            analyze_logs()
+            respond_incidents()
+            # Never stop learning, never stop defending
+```
+
+> *"The best defense is a well-prepared blue team"*
+
+---
+
+## 📈 GITHUB STATS
+
 <div align="center">
 
-### 💡 "The expert in anything was once a beginner."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_color=00ff00&title_color=00ff00&icon_color=00ffff&text_color=ffffff&bg_color=0a0e27)
 
-**Open to collaboration, mentorship, and learning opportunities in cybersecurity!**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_color=00ff00&title_color=00ff00&text_color=ffffff&bg_color=0a0e27)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0080FF&height=120&section=footer" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border=00ff00&ring=00ff00&fire=ff00ff&currStreakLabel=00ffff)
 
 </div>
+
+---
+
+## ⚠️ DISCLAIMER
+
+```bash
+┌──(defender㉿blueteam)-[~/disclaimer]
+└─$ cat warning.txt
+
+[!] All security tools and projects are for:
+    ✓ Educational purposes
+    ✓ Authorized security testing
+    ✓ Defensive operations only
+
+[!] Unauthorized access to systems is illegal
+[!] Always obtain proper authorization
+[!] Follow responsible disclosure practices
+```
+
+---
+
+<div align="center">
+
+### 🔐 "Stay Secure, Stay Vigilant" 🔐
+
+```ascii
+┌─────────────────────────────────────────────┐
+│  [SYSTEM STATUS: PROTECTED]                 │
+│  [MONITORING: ACTIVE]                       │
+│  [DEFENSE LEVEL: MAXIMUM]                   │
+└─────────────────────────────────────────────┘
+```
+
+**⭐ If you find my work helpful, consider dropping a star! ⭐**
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+
+</div>
+
+---
+
+```bash
+┌──(defender㉿blueteam)-[~]
+└─$ echo "Thanks for visiting! Stay secure! 🛡️"
+Thanks for visiting! Stay secure! 🛡️
+
+┌──(defender㉿blueteam)-[~]
+└─$ _
+```
