@@ -19,35 +19,6 @@
 
 ---
 
-## 🎯 THREAT PROFILE
-
-```python
->>> from soc import CyberSecurityExpert
->>> me = CyberSecurityExpert()
-
->>> me.name
-"HaritsSec"
-
->>> me.current_mission()
-"Hunting vulnerabilities and protecting digital assets"
-
-class CyberSecurityExpert:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Security Researcher"
-        self.location = "Cyberspace 🌐"
-        self.skills = {
-            "offensive": ["Penetration Testing", "Exploit Development", "Social Engineering"],
-            "defensive": ["Security Hardening", "Incident Response", "Threat Hunting"],
-            "intelligence": ["OSINT", "Malware Analysis", "Reverse Engineering"]
-        }
-    
-    def current_mission(self):
-        return "Hunting vulnerabilities and protecting digital assets"
-```
-
----
-
 ## 🔐 SECURITY ARSENAL
 
 ### Offensive Security
