@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CYBER%20SECURITY&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
@@ -110,7 +110,350 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> LEARNING PROJECTS
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43d3-b585-e9f89f469c1e.gif" width="400" align="right">
+
+### 🎯 Security Tools
+
+**🔹 [Network Port Scanner](https://github.com/yourusername/port-scanner)**
+```python
+# Multi-threaded port scanner with banner grabbing
+Status: ✅ Completed | Stars: ⭐ 10
+Tech: Python, Socket Programming, Threading
+```
+
+**🔹 [Password Strength Checker](https://github.com/yourusername/password-checker)**
+```python
+# Analyze password entropy and complexity
+Status: ✅ Completed | Stars: ⭐ 8
+Tech: Python, Regex, Security Analysis
+```
+
+**🔹 [Web Vulnerability Scanner](https://github.com/yourusername/web-scanner)**
+```python
+# Automated scanner for common web vulnerabilities
+Status: 🔄 In Progress | Stars: ⭐ 5
+Tech: Python, Requests, BeautifulSoup
+```
+
+### 🛡️ Practice & Labs
+
+**🔹 [TryHackMe Solutions](https://github.com/yourusername/thm-writeups)**
+```bash
+# My walkthrough and solutions for TryHackMe rooms
+Rooms Completed: 25+ | Rank: Top 10%
+Focus: Web, Network, Linux Privilege Escalation
+```
+
+**🔹 [HackTheBox Writeups](https://github.com/yourusername/htb-writeups)**
+```bash
+# Detailed writeups for HTB machines
+Machines Pwned: 10+ | Active User
+Focus: OSINT, Enumeration, Exploitation
+```
+
+**🔹 [CTF Challenges](https://github.com/yourusername/ctf-challenges)**
+```bash
+# Collection of CTF challenges and solutions
+Events: 15+ CTFs | Category: Web, Crypto, Forensics
+Notable: Top 50 in National CTF 2024
+```
+
+### 📚 Learning Resources
+
+**🔹 [Security Notes](https://github.com/yourusername/security-notes)**
+```markdown
+# My personal cyber security knowledge base
+Topics: 50+ | Notes: 200+ pages
+Categories: Web Security, Network, Linux, Tools
+```
+
+**🔹 [Bash Security Scripts](https://github.com/yourusername/bash-scripts)**
+```bash
+# Collection of useful security automation scripts
+Scripts: 30+ | Use Cases: Automation, Recon, Analysis
+```
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> LEARNING JOURNEY
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" align="right">
+
+### 📖 What I'm Currently Learning
+
+```bash
+[CURRENT FOCUS - December 2024]
+
+1. 🌐 Web Application Penetration Testing
+   ├─ OWASP Top 10 vulnerabilities
+   ├─ SQL Injection techniques
+   ├─ XSS (Cross-Site Scripting)
+   └─ Authentication bypass methods
+
+2. 🔍 Network Security & Traffic Analysis
+   ├─ Wireshark packet analysis
+   ├─ TCP/IP protocol deep dive
+   ├─ Network scanning with Nmap
+   └─ IDS/IPS fundamentals
+
+3. 💻 Python for Security Automation
+   ├─ Socket programming
+   ├─ Web scraping for OSINT
+   ├─ Building security tools
+   └─ Exploit development basics
+
+4. 🐧 Linux System Administration
+   ├─ Bash scripting mastery
+   ├─ System hardening techniques
+   ├─ Log analysis and monitoring
+   └─ Privilege escalation methods
+```
+
+<br clear="right"/>
+
+### 🎯 Completed Milestones
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" align="left">
+
+```diff
++ ✅ Completed 25+ TryHackMe rooms
++ ✅ Solved 50+ CTF challenges  
++ ✅ Built 10+ security tools from scratch
++ ✅ Mastered Linux command line
++ ✅ Python programming fundamentals
++ ✅ Network fundamentals & protocols
++ ✅ Basic penetration testing methodology
++ ✅ Web security basics (OWASP Top 10)
+```
+
+<br clear="left"/>
+
+### 🎓 Learning Resources I Use
+
 <div align="center">
 
-| 🎯 Project | 📝 De
-**
+| 📚 Platform | 🎯 Focus Area | ⭐ Progress |
+|:---:|:---:|:---:|
+| **TryHackMe** | Hands-on labs & rooms | 25+ Rooms |
+| **HackTheBox** | Real-world machines | 10+ Boxes |
+| **PortSwigger Academy** | Web security | 40% Complete |
+| **Cybrary** | Security fundamentals | 5 Courses |
+| **YouTube** | Tool tutorials & techniques | Daily |
+| **Medium/Blogs** | Writeups & methodologies | Weekly |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> CYBERSECURITY ROADMAP
+
+```mermaid
+graph LR
+    A[🎯 Start] --> B[Linux Basics]
+    B --> C[Networking Fundamentals]
+    C --> D[Python Programming]
+    D --> E[Web Security]
+    E --> F[Network Security]
+    F --> G[System Security]
+    G --> H[🎓 Junior Security Analyst]
+    H --> I[SOC Analyst]
+    I --> J[Penetration Tester]
+    J --> K[🏆 Security Expert]
+    
+    style A fill:#00ff00
+    style H fill:#00ffff
+    style K fill:#ff00ff
+```
+
+### 📅 My Learning Timeline
+
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│  2024                                                       │
+├─────────────────────────────────────────────────────────────┤
+│  Q1 [██████████] Started learning Kali Linux                │
+│  Q2 [██████████] Completed Python for Security course       │
+│  Q3 [██████████] Started TryHackMe & HTB                    │
+│  Q4 [████████░░] Building security projects (Current)       │
+│                                                              │
+│  2025 Goals                                                 │
+├─────────────────────────────────────────────────────────────┤
+│  Q1 [░░░░░░░░░░] Get first security certification           │
+│  Q2 [░░░░░░░░░░] Complete 50+ TryHackMe rooms               │
+│  Q3 [░░░░░░░░░░] Participate in Bug Bounty programs         │
+│  Q4 [░░░░░░░░░░] Land first security job/internship         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5c-8b28-443ca1eb6a94.png" width="30" /> SKILLS BREAKDOWN
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
+
+### 🔐 Security Skills
+
+```yaml
+Reconnaissance:
+  - Nmap scanning: ████████░░ 80%
+  - OSINT gathering: ███████░░░ 70%
+  - Subdomain enumeration: ██████░░░░ 60%
+  - Google dorking: █████████░ 90%
+
+Exploitation:
+  - Metasploit framework: ██████░░░░ 60%
+  - Manual exploitation: █████░░░░░ 50%
+  - SQL injection: ███████░░░ 70%
+  - XSS attacks: ███████░░░ 70%
+
+Post-Exploitation:
+  - Privilege escalation: ██████░░░░ 60%
+  - Maintaining access: ████░░░░░░ 40%
+  - Data exfiltration: █████░░░░░ 50%
+  - Covering tracks: ████░░░░░░ 40%
+
+Defense:
+  - Log analysis: ███████░░░ 70%
+  - Incident response: █████░░░░░ 50%
+  - Security hardening: ██████░░░░ 60%
+  - Threat detection: █████░░░░░ 50%
+```
+
+<br clear="right"/>
+
+### 💻 Technical Skills
+
+<div align="center">
+
+**Programming & Scripting**
+
+![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-80%25-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-50%25-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Operating Systems**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-90%25-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-85%25-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-70%25-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Security Tools Mastery**
+
+| Tool | Proficiency | Use Cases |
+|:---:|:---:|:---:|
+| 🔍 **Nmap** | ████████░░ 80% | Port scanning, service detection |
+| 🦈 **Wireshark** | ███████░░░ 70% | Packet analysis, network forensics |
+| 💉 **Metasploit** | ██████░░░░ 60% | Exploitation framework |
+| 🔥 **Burp Suite** | ███████░░░ 70% | Web application testing |
+| 🐍 **SQLmap** | ███████░░░ 70% | SQL injection automation |
+| 🔨 **John the Ripper** | ██████░░░░ 60% | Password cracking |
+| 👻 **Hashcat** | █████░░░░░ 50% | Advanced hash cracking |
+| 🕷️ **Nikto** | ██████░░░░ 60% | Web server scanning |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276e5c12-2d4e-4d8d-b0e8-9f4f3d3f3f3e.png" width="30" /> ACHIEVEMENTS & HIGHLIGHTS
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" align="left">
+
+### 🏆 Notable Accomplishments
+
+```bash
+✨ Completed 25+ TryHackMe Rooms
+   └─ Categories: Web, Network, Linux
+
+✨ Solved 50+ CTF Challenges  
+   └─ Focus: OSINT, Web, Crypto
+
+✨ Built 10+ Security Tools
+   └─ Python-based automation tools
+
+✨ Top 10% on TryHackMe
+   └─ Consistent learner badge
+
+✨ Active GitHub Contributor
+   └─ 100+ commits in security projects
+
+✨ Security Blog Writer
+   └─ 15+ technical writeups published
+```
+
+<br clear="left"/>
+
+### 📝 Recent Activities
+
+```diff
+@@ Recent Commits & Updates @@
+
+! [2024-12-04] 🔥 Completed "Blue" room on TryHackMe
++ [2024-12-03] 📝 Published writeup: "SQL Injection Deep Dive"  
++ [2024-12-02] 🛠️ Built automated subdomain enumeration tool
+! [2024-12-01] 🎯 Pwned "Lame" box on HackTheBox
++ [2024-11-30] 📚 Started learning Buffer Overflow techniques
++ [2024-11-29] 🔧 Updated port scanner with multi-threading
+! [2024-11-28] 🏆 Ranked Top 15% in TryHackMe
+```
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294015-47cd93d5-ca9e-4a62-8b2f-63c56a18e1e1.gif" width="30" /> BLOG & WRITEUPS
+
+<div align="center">
+
+### 📄 Latest Writeups
+
+| 📅 Date | 📝 Title | 🏷️ Category | 🔗 Link |
+|:---:|:---:|:---:|:---:|
+| Dec 2024 | SQL Injection: From Basic to Advanced | Web Security | [Read](https://medium.com/@yourhandle) |
+| Nov 2024 | Linux Privilege Escalation Techniques | System Security | [Read](https://medium.com/@yourhandle) |
+| Nov 2024 | My First HackTheBox Machine: Lame | Penetration Testing | [Read](https://medium.com/@yourhandle) |
+| Oct 2024 | Network Traffic Analysis with Wireshark | Network Security | [Read](https://medium.com/@yourhandle) |
+| Oct 2024 | Building a Port Scanner in Python | Tool Development | [Read](https://medium.com/@yourhandle) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5c-8b28-443ca1eb6a94.png" width="30" /> MY MOTTO
+
+```
+┌─────────────────────────────────────────────┐
+│  "Learn Today, Secure Tomorrow"             │
+│  "Hack The Planet Ethically"                │
+│  "Never Stop Learning, Never Stop Growing"  │
+└─────────────────────────────────────────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🌟 VISITOR COUNT 🌟
+
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
+
+**🚀 Keep Learning | 🔒 Stay Secure | 💪 Never Give Up**
+
+</div>
