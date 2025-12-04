@@ -77,7 +77,6 @@ Goal: Security Analys
 ### Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### Learning Platforms
@@ -147,9 +146,6 @@ Goal: Security Analys
 ![Network Analysis](https://img.shields.io/badge/Network_Analysis-●●●○○-00F7F7?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-●●○○○-00F7F7?style=flat-square)
 ![Python Scripting](https://img.shields.io/badge/Python_Scripting-●●●○○-00F7F7?style=flat-square)
-![Linux Admin](https://img.shields.io/badge/Linux_Admin-●●●●○-00F7F7?style=flat-square)
-![Windows Security](https://img.shields.io/badge/Windows_Security-●●●○○-00F7F7?style=flat-square)
-![SIEM Tools](https://img.shields.io/badge/SIEM_Tools-●●○○○-00F7F7?style=flat-square)
 
 </td>
 <td width="50%">
