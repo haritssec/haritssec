@@ -41,27 +41,23 @@
 
 ---
 
-## 💼 PROFESSIONAL PROFILE
+## 👨‍💻 ABOUT ME
 
-```python
-class CyberSecuritySpecialist:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Blue Team Operator | SOC Analyst"
-        self.location = "Indonesia"
-        self.experience = "3+ years"
-        
-    def skills(self):
-        return {
-            "Security_Operations": ["SIEM", "IDS/IPS", "Log Analysis", "Incident Response"],
-            "Threat_Intelligence": ["Threat Hunting", "IOC Analysis", "OSINT"],
-            "Tools": ["Splunk", "Wireshark", "Snort", "Metasploit", "Burp Suite"],
-            "OS": ["Kali Linux", "Ubuntu", "Windows Server"],
-            "Languages": ["Python", "Bash", "PowerShell"]
-        }
-    
-    def certifications(self):
-        return ["CEH", "Security+", "Blue Team Level 1"]
+```bash
+┌─[defender@blueteam]─[~]
+└──╼ $ cat profile.txt
+
+Name: Your Name
+Role: Cyber Security Specialist | Blue Team Operator
+Location: Indonesia 🇮🇩
+Experience: 3+ Years in Security Operations
+Status: Open to Opportunities
+
+[SPECIALIZATION]
+├─> Defensive Security & SOC Operations
+├─> Threat Hunting & Intelligence
+├─> Incident Response & Forensics
+└─> Security Automation & Scripting
 ```
 
 ---
