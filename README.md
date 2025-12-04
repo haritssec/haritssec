@@ -79,8 +79,9 @@ Goal: Security Analys
 ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-<--
+
 ### Learning Platforms
+<!--
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![LetsDefend](https://img.shields.io/badge/LetsDefend-4A90E2?style=for-the-badge&logoColor=white)
@@ -106,7 +107,7 @@ Goal: Security Analys
 ---
 
 ## 🎓 Learning & Certifications
-<--
+<!--
 <div align="center">
 
 | Certification | Status | Target |
