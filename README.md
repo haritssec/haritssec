@@ -21,7 +21,7 @@
 Role: Aspiring Blue Team Analyst
 Focus: Cybersecurity Defense & Threat Detection  
 Learning: SIEM, Log Analysis, Network Security
-Goal: SOC Analyst Position
+Goal: Security Analys
 ```
 
 ---
