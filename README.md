@@ -81,11 +81,7 @@ Goal: Security Analys
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### Learning Platforms
-<!--
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![LetsDefend](https://img.shields.io/badge/LetsDefend-4A90E2?style=for-the-badge&logoColor=white)
--->
+
 </div>
 
 ---
@@ -107,89 +103,13 @@ Goal: Security Analys
 ---
 
 ## 🎓 Learning & Certifications
-<!--
-<div align="center">
 
-| Certification | Status | Target |
-|---------------|--------|--------|
-| ![CompTIA](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=flat-square&logo=comptia&logoColor=white) | 🎯 In Progress | 2025 |
-| ![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) | ✅ Completed | 2024 |
-| ![BTL1](https://img.shields.io/badge/Blue_Team_Level_1-0080FF?style=flat-square&logoColor=white) | 📋 Planned | 2025 |
-| ![Linux](https://img.shields.io/badge/Linux_Essentials-FCC624?style=flat-square&logo=linux&logoColor=black) | 🎯 In Progress | 2025 |
-
-</div>
--->
 ---
 
 ## 💼 Learning Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Network Traffic Analyzer
-**Tech:** Python, Scapy, Wireshark
-
-A tool to capture and analyze network packets for suspicious activities.
-
-- Packet capture automation
-- Protocol analysis (HTTP, DNS, TCP)
-- Anomaly detection patterns
-- Generate traffic reports
-
-🔗 [View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Security Log Parser
-**Tech:** Python, Regex, Pandas
-
-Script untuk parsing dan menganalisis security logs dari berbagai sources.
-
-- Multi-format log parsing
-- Pattern recognition
-- Alert generation
-- Data visualization
-
-🔗 [View Project](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Home Security Lab
-**Tech:** VirtualBox, pfSense, ELK Stack
-
-Virtual environment untuk praktik security monitoring dan defense.
-
-- Network segmentation
-- IDS/IPS configuration
-- Log aggregation with ELK
-- Threat simulation
-
-🔗 [View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Incident Response Playbook
-**Tech:** Markdown, Git
-
-Dokumentasi prosedur response untuk berbagai jenis security incidents.
-
-- Malware infection response
-- Phishing attack handling
-- Data breach procedures
-- Post-incident analysis
-
-🔗 [View Project](#)
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -200,14 +120,9 @@ Dokumentasi prosedur response untuk berbagai jenis security incidents.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=700&lines=Daily+practice+on+TryHackMe+and+HackTheBox;Reading+SANS+Reading+Room+and+security+blogs;Building+labs+and+breaking+things+to+learn;Documenting+everything+I+learn" alt="Learning Activities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=700&lines=Reading+SANS+Reading+Room+and+security+blogs;Building+labs+and+breaking+things+to+learn;Documenting+everything+I+learn" alt="Learning Activities"/>
 
 <br><br>
-
-**Currently Reading**
-- 📖 The Practice of Network Security Monitoring
-- 📖 Blue Team Handbook: SOC, SIEM, and Threat Hunting
-- 📖 Applied Incident Response
 
 **Favorite Blogs & Resources**
 - 🔗 SANS Internet Storm Center
@@ -241,10 +156,6 @@ Dokumentasi prosedur response untuk berbagai jenis security incidents.
 
 **Soft Skills**
 
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-●●●●○-00FF00?style=flat-square)
-![Documentation](https://img.shields.io/badge/Documentation-●●●●○-00FF00?style=flat-square)
-![Team Work](https://img.shields.io/badge/Team_Work-●●●●○-00FF00?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-●●●○○-00FF00?style=flat-square)
 ![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-●●●●●-00FF00?style=flat-square)
 
 </td>
