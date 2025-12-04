@@ -145,11 +145,9 @@
 ```
 
 <br clear="right"/>
----
-<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43d3-b585-e9f89f469c1e.gif" width="400" align="right">
-### 🎯 Completed Milestones
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" align="left">
+<div align="center">
+### 🎯 Completed Milestones
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c5c-8b28-443ca1eb6a94.png" width="30" /> CONTACT ME
 
