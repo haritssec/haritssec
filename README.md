@@ -1,266 +1,249 @@
-# 🛡️ CYBER SECURITY SPECIALIST | BLUE TEAM OPERATOR
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗██╗   ██╗██████╗ ███████╗██████╗                   ║
-║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗                  ║
-║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝                  ║
-║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗                  ║
-║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║                  ║
-║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝                  ║
-║                                                               ║
-║           [DEFENSIVE SECURITY | THREAT HUNTING]               ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
+# 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Expert-00FF00?style=for-the-badge)
-![Blue Team](https://img.shields.io/badge/Blue_Team-Defender-0080FF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active_Defender-success?style=for-the-badge)
+```
+███████╗██╗   ██╗██████╗ ███████╗██████╗     ███████╗███████╗ ██████╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔════╝██╔════╝
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████╗█████╗  ██║     
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ╚════██║██╔══╝  ██║     
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ███████║███████╗╚██████╗
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Cyber+Security+Specialist;Blue+Team+Operator;Threat+Hunter+%26+SOC+Analyst;Penetration+Tester" alt="Typing SVG" />
+
+![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 </div>
 
 ---
 
-## 🎯 SYSTEM INFORMATION
+## 📡 INITIALIZING SYSTEM...
 
 ```bash
-┌──(defender㉿blueteam)-[~/profile]
-└─$ whoami
-> Cyber Security Specialist | Blue Team Operator
-> Threat Hunter | SOC Analyst | Incident Responder
+[✓] Loading security modules............................ OK
+[✓] Establishing secure connection....................... OK  
+[✓] Activating defense protocols......................... OK
+[✓] Starting threat detection engine..................... OK
+[✓] System ready for operations.......................... OK
 
-┌──(defender㉿blueteam)-[~/profile]
-└─$ cat mission.txt
-> Protecting digital assets and infrastructure
-> Hunting threats before they strike
-> Building resilient security systems
-```
-
----
-
-## ⚔️ ARSENAL & TOOLKIT
-
-### 🔵 Defensive Operations
-```bash
-[+] SIEM & Log Analysis
-    ├── Splunk | ELK Stack | Graylog
-    ├── Log correlation & analysis
-    └── Real-time threat detection
-
-[+] Network Security
-    ├── Wireshark | tcpdump | Zeek
-    ├── IDS/IPS (Snort, Suricata)
-    └── Firewall management & monitoring
-
-[+] Threat Intelligence
-    ├── MISP | OpenCTI | ThreatConnect
-    ├── OSINT gathering
-    └── IOC analysis & tracking
-
-[+] Incident Response
-    ├── Forensics: Autopsy, Volatility
-    ├── Malware Analysis (sandboxing)
-    └── DFIR toolkit mastery
-```
-
-### 💻 Technical Skills
-```python
-skills = {
-    "OS": ["Kali Linux", "Ubuntu", "Windows Server", "CentOS"],
-    "Security": ["SOC Operations", "Threat Hunting", "Vulnerability Management"],
-    "Tools": ["Nmap", "Metasploit", "Burp Suite", "OSSEC", "Wazuh"],
-    "Languages": ["Python", "Bash", "PowerShell", "JavaScript"],
-    "Frameworks": ["MITRE ATT&CK", "NIST CSF", "ISO 27001"],
-    "Cloud": ["AWS Security", "Azure Sentinel", "GCP Security"]
-}
-```
-
----
-
-## 🚨 FEATURED PROJECTS
-
-### 🛡️ [SOC Automation Suite](https://github.com/yourusername/soc-automation)
-```bash
-├── Automated threat detection & response
-├── SOAR integration (TheHive + Cortex)
-├── Custom playbooks for incident handling
-└── 🔹 Python | Splunk | TheHive
-```
-
-### 🔍 [Threat Hunting Platform](https://github.com/yourusername/threat-hunting)
-```bash
-├── Real-time threat intelligence aggregation
-├── Behavioral analysis engine
-├── Custom detection rules (Sigma)
-└── 🔹 ELK Stack | Python | Yara
-```
-
-### 🌐 [Network Intrusion Detection System](https://github.com/yourusername/nids-project)
-```bash
-├── Custom Snort/Suricata rules
-├── Machine learning anomaly detection
-├── Dashboard for real-time alerts
-└── 🔹 Suricata | Python | Grafana
-```
-
-### 🔐 [Vulnerability Scanner & Manager](https://github.com/yourusername/vuln-scanner)
-```bash
-├── Automated scanning pipeline
-├── CVE tracking & prioritization
-├── Patch management automation
-└── 🔹 OpenVAS | Python | Docker
-```
-
----
-
-## 📊 SECURITY METRICS
-
-```bash
-┌──────────────────────────────────────────────────────────┐
-│  THREAT LANDSCAPE MONITORING                             │
-├──────────────────────────────────────────────────────────┤
-│  Threats Detected:    [████████████████░░] 1,247+       │
-│  Incidents Resolved:  [████████████████░░] 856+         │
-│  Zero-Day Research:   [██████████░░░░░░░░] Active       │
-│  SOC Response Time:   [████████████████░░] <5 mins      │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎓 CERTIFICATIONS & TRAINING
-
-```bash
-[✓] CEH - Certified Ethical Hacker
-[✓] CompTIA Security+
-[✓] Blue Team Level 1 (BTL1)
-[✓] GCIH - GIAC Certified Incident Handler
-[~] OSCP - In Progress
-[~] GCFA - Planned
-```
-
----
-
-## 📡 LATEST ACTIVITY
-
-```bash
-┌──(defender㉿blueteam)-[~/activity]
-└─$ tail -f latest_actions.log
-
-[2024-12-04 10:30] >> Deployed new SIEM correlation rules
-[2024-12-03 15:45] >> Completed threat hunting exercise
-[2024-12-02 09:20] >> Updated IDS signatures database
-[2024-12-01 14:10] >> Published security research paper
-[2024-11-30 11:55] >> Conducted SOC team training session
-```
-
----
-
-## 🔗 CONNECT & COLLABORATE
-
-```bash
-┌──(defender㉿blueteam)-[~/contact]
-└─$ cat social_links.txt
+┌─[defender@blueteam]─[~]
+└──╼ $ whoami
 ```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🛡️ Cyber Security Professional | 3+ Years Experience
+**Specializing in Defensive Security & Threat Intelligence**
 
 </div>
 
 ---
 
-## 💀 PHILOSOPHY
+## 💼 PROFESSIONAL PROFILE
 
 ```python
-#!/usr/bin/env python3
-
-class CyberDefender:
+class CyberSecuritySpecialist:
     def __init__(self):
-        self.motto = "Defense is not just a reaction, it's a mindset"
-        self.mission = "Protect, Detect, Respond"
-        self.approach = "Proactive threat hunting"
+        self.name = "Your Name"
+        self.role = "Blue Team Operator | SOC Analyst"
+        self.location = "Indonesia"
+        self.experience = "3+ years"
+        
+    def skills(self):
+        return {
+            "Security_Operations": ["SIEM", "IDS/IPS", "Log Analysis", "Incident Response"],
+            "Threat_Intelligence": ["Threat Hunting", "IOC Analysis", "OSINT"],
+            "Tools": ["Splunk", "Wireshark", "Snort", "Metasploit", "Burp Suite"],
+            "OS": ["Kali Linux", "Ubuntu", "Windows Server"],
+            "Languages": ["Python", "Bash", "PowerShell"]
+        }
     
-    def defend(self):
-        while True:
-            monitor_networks()
-            hunt_threats()
-            analyze_logs()
-            respond_incidents()
-            # Never stop learning, never stop defending
+    def certifications(self):
+        return ["CEH", "Security+", "Blue Team Level 1"]
 ```
-
-> *"The best defense is a well-prepared blue team"*
 
 ---
 
-## 📈 GITHUB STATS
+## 🎯 CORE COMPETENCIES
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_color=00ff00&title_color=00ff00&icon_color=00ffff&text_color=ffffff&bg_color=0a0e27)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_color=00ff00&title_color=00ff00&text_color=ffffff&bg_color=0a0e27)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border=00ff00&ring=00ff00&fire=ff00ff&currStreakLabel=00ffff)
+| 🛡️ Defensive Security | 🔍 Threat Hunting | 🚨 Incident Response |
+|:---:|:---:|:---:|
+| SIEM Management | Threat Intelligence | Forensic Analysis |
+| IDS/IPS Configuration | Log Correlation | Malware Analysis |
+| Network Monitoring | Vulnerability Assessment | Security Automation |
 
 </div>
 
 ---
 
-## ⚠️ DISCLAIMER
+## 🔧 TECHNICAL ARSENAL
 
 ```bash
-┌──(defender㉿blueteam)-[~/disclaimer]
-└─$ cat warning.txt
-
-[!] All security tools and projects are for:
-    ✓ Educational purposes
-    ✓ Authorized security testing
-    ✓ Defensive operations only
-
-[!] Unauthorized access to systems is illegal
-[!] Always obtain proper authorization
-[!] Follow responsible disclosure practices
+┌─[Security Tools]
+│
+├─[Network Security]
+│  ├── Wireshark
+│  ├── Nmap
+│  ├── Snort/Suricata
+│  └── Zeek
+│
+├─[SIEM & Monitoring]
+│  ├── Splunk
+│  ├── ELK Stack
+│  └── Graylog
+│
+├─[Penetration Testing]
+│  ├── Metasploit
+│  ├── Burp Suite
+│  ├── Nessus
+│  └── OWASP ZAP
+│
+└─[Scripting & Automation]
+   ├── Python
+   ├── Bash
+   └── PowerShell
 ```
 
 ---
 
+## 💼 PROFESSIONAL EXPERIENCE
+
+### 🔹 **SOC Analyst** | PT Cyber Security Indonesia
+*Jan 2022 - Present*
+- 🎯 Monitor dan analisis 1000+ security events harian menggunakan SIEM
+- 🔍 Melakukan threat hunting dan incident response
+- 🛡️ Mengimplementasikan security controls dan detection rules
+- 📊 Menurunkan incident response time hingga 40%
+
+### 🔹 **Junior Security Engineer** | PT Tech Solutions
+*Jun 2021 - Dec 2021*
+- 🌐 Konfigurasi dan maintenance IDS/IPS systems
+- 📈 Vulnerability assessment dan penetration testing
+- 🔐 Security hardening untuk infrastructure
+
+---
+
+## 📜 CERTIFICATIONS
+
 <div align="center">
 
-### 🔐 "Stay Secure, Stay Vigilant" 🔐
+![CEH](https://img.shields.io/badge/CEH-Certified-red?style=for-the-badge&logo=hackerone)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+![BTL1](https://img.shields.io/badge/Blue_Team-Level_1-blue?style=for-the-badge)
 
-```ascii
-┌─────────────────────────────────────────────┐
-│  [SYSTEM STATUS: PROTECTED]                 │
-│  [MONITORING: ACTIVE]                       │
-│  [DEFENSE LEVEL: MAXIMUM]                   │
-└─────────────────────────────────────────────┘
+</div>
+
+```
+✅ Certified Ethical Hacker (CEH)
+✅ CompTIA Security+
+✅ Blue Team Level 1 (BTL1)
+🔄 OSCP - In Progress
 ```
 
-**⭐ If you find my work helpful, consider dropping a star! ⭐**
+---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+## 🚀 FEATURED PROJECTS
+
+### 🛡️ [SOC Automation Framework](https://github.com/yourusername/soc-automation)
+Automated security operations platform dengan Python & Splunk
+```bash
+⭐ 50+ Stars | 🍴 20 Forks | 🔧 Python, Splunk, TheHive
+```
+
+### 🔍 [Threat Intel Aggregator](https://github.com/yourusername/threat-intel)
+Real-time threat intelligence collection & analysis tool
+```bash
+⭐ 35+ Stars | 🍴 15 Forks | 🔧 Python, ELK, MISP
+```
+
+### 🌐 [Network IDS Dashboard](https://github.com/yourusername/ids-dashboard)
+Custom Suricata rules dengan real-time monitoring dashboard
+```bash
+⭐ 28+ Stars | 🍴 10 Forks | 🔧 Suricata, Grafana, Python
+```
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
 
 </div>
 
 ---
 
-```bash
-┌──(defender㉿blueteam)-[~]
-└─$ echo "Thanks for visiting! Stay secure! 🛡️"
-Thanks for visiting! Stay secure! 🛡️
+## 🎓 EDUCATION
 
-┌──(defender㉿blueteam)-[~]
-└─$ _
+**Bachelor of Computer Science - Cyber Security**  
+Universitas Indonesia | 2018 - 2022  
+GPA: 3.75/4.00
+
+---
+
+## 📬 CONTACT & CONNECT
+
+<div align="center">
+
+```bash
+┌─[CONTACT INFORMATION]
+├─> Email    : your.email@example.com
+├─> Phone    : +62 812-3456-7890
+├─> LinkedIn : linkedin.com/in/yourprofile
+├─> Location : Jakarta, Indonesia
+└─> Status   : 🟢 Available for opportunities
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
+## 💡 LANGUAGES & SKILLS
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 "Protecting Digital Assets, One Threat at a Time" 🔐
+
+```
+[SYSTEM STATUS]
+├─> Monitoring    : ████████████████████ 100%
+├─> Defense Level : ████████████████████ MAXIMUM
+├─> Threat Level  : ██░░░░░░░░░░░░░░░░░░ LOW
+└─> Ready to Work : ✅ YES
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
+
+**⭐ Open to Job Opportunities | Ready to Defend Your Infrastructure ⭐**
+
+</div>
